@@ -9,3 +9,4 @@ feature_1_1
 feature_1_2
 feature_1_3
 release 1
+release 2
